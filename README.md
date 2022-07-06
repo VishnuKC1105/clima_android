@@ -1,16 +1,10 @@
-# clima_android
+# Clima_android
 
-A new Flutter project.
+A pocket friendly android application created using flutter. It basically makes a networking request to a weather API to get the the current weather information of a city entered in by the user.
 
-## Getting Started
+API used: OpenWeatherMap API 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1657129137_nexus5x-portrait](https://user-images.githubusercontent.com/91648418/177614760-535b81fd-366d-4004-a5c6-5661554df8cb.png)
