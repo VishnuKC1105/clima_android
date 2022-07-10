@@ -7,6 +7,7 @@ API used: OpenWeatherMap API
 
 # UI
 
-![Screenshot_1657460882_google-pixel4xl-clearlywhite-portrait](https://user-images.githubusercontent.com/91648418/178147741-5a299e10-c259-442a-96cb-15b9df31c373.png)
-![Screenshot_1657460898_google-pixel4xl-clearlywhite-portrait](https://user-images.githubusercontent.com/91648418/178147755-c494b85d-e031-440b-9b22-cc7ff956995a.png)
+![Screenshot_1657460882_google-pixel4xl-clearlywhite-portrait (1)](https://user-images.githubusercontent.com/91648418/178148018-b6ce6430-9cf3-4a15-affa-46f863889ab0.png)
+
+![Screenshot_1657460898_google-pixel4xl-clearlywhite-portrait (1)](https://user-images.githubusercontent.com/91648418/178148150-2ec79c86-39a0-43d3-b40e-bddd4d309b80.png)
 
